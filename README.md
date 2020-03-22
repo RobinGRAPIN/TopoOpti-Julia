@@ -1,4 +1,4 @@
 # Topo-opti
 optimisation topologique PIR Supaéro
 
-Je ne sais pas trop comment marche GitHub, je crée ce répertoire pour essayer des bouts de codes.
+Je dépose ici du code en Julia.
